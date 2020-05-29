@@ -51,9 +51,6 @@ Finished! thats it!
 * [Bootstrap](https://github.com/twbs/bootstrap) - Bootstrap Used for UI
 
 
-## Authors
-
-* **Seyyed Ali Salmabadi** - *Initial work* - [Seyyed Ali](https://github.com/salis77/)
 
 
 
